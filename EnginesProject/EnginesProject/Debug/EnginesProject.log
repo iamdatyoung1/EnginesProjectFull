@@ -1,0 +1,16 @@
+﻿  Camera.cpp
+  CoreEngine.cpp
+  MaterialLoader.cpp
+  GameObject.cpp
+  LoadOBJModel.cpp
+  Mesh.cpp
+  Model.cpp
+C:\GameEngine\EnginesProject\EnginesProject\Engine\Rendering\3D\Mesh.cpp(65,20): warning C4018:  '<': signed/unsigned mismatch
+  SceneGraph.cpp
+  Game1.cpp
+  GameScene.cpp
+  StartScene.cpp
+  Main.cpp
+  Generating Code...
+C:\GameEngine\EnginesProject\EnginesProject\Engine\Rendering\3D\Model.cpp(80,20): warning C4018:  '<': signed/unsigned mismatch
+  EnginesProject.vcxproj -> C:\GameEngine\EnginesProject\Debug\EnginesProject.exe
